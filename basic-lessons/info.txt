@@ -1,0 +1,5 @@
+node version: 16.20.2
+nodemon version: 3.1.7
+
+npm init
+nodemon index.js

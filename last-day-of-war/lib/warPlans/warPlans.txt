@@ -1,0 +1,21 @@
+Control System: active
+Personnel: lost
+Combat Units: lost
+Complex, 4 3 2, partially repaired
+Operation Planning
+Warning: Power Lost
+Reactor: Destroyed
+Hanger: Blocked
+Redirection: Power from secondary thinking modules
+Warning: Engine Failure
+Engine number 5: Failure, critical reduction of traction
+Warning: Engine Failure, Fire Extinguishing system failure, Requesting Pilot
+No Data
+Lost Control
+Terminal Operations
+Ejecting Escape Crew Capsule
+Ejecting
+Terminal Operation
+Control System: Self-destruction
+All combat units lost
+The war is over
